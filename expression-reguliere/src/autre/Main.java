@@ -1,7 +1,7 @@
 package autre;
 
 
-public class Main {
+public class Main { //hello ...!
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
